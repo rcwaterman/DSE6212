@@ -145,6 +145,7 @@ env.bak/
 venv.bak/
 data
 results
+results_*/
 
 # Spyder project settings
 .spyderproject
