@@ -1,0 +1,5 @@
+{
+  "cnn_test_accuracy": 0.7204999923706055,
+  "cnn_params": 1135498,
+  "mlp_params": 3157002
+}
